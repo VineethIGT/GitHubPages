@@ -1,6 +1,4 @@
 
-# Repositories
-
 A quick overview of my GitHub projects.
 
 - [Cpp-Upgrade-Lab](https://github.com/Vineeth-Viswan/Cpp-Upgrade-Lab) — C++ 17 to 26.
